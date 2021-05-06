@@ -41,12 +41,12 @@ p:last-child {
  * Selection color
  */
 ::-moz-selection {
-  background-color: #FA6862;
+  background-color: #fcadf1;
   color: #fff;
 }
 
 ::selection {
-  background-color: #FA6862;
+  background-color: #fcadf1;
   color: #fff;
 }
 
@@ -95,7 +95,7 @@ textarea, label {
 }
 
 .btn-primary {
-  background-color: #FA6862;
+  background-color: #fcadf1;
   border: 0;
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
@@ -105,7 +105,7 @@ textarea, label {
   text-transform: uppercase;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary:active:focus {
-  background-color: #f9423a;
+  background-color: #fcadf1;
 }
 
 .btn-border {
@@ -152,7 +152,7 @@ textarea, label {
 
 .primary,
 .link:hover {
-  color: #FA6862;
+  color: #fcadf1;
 }
 
 .no-gutter {
@@ -189,7 +189,7 @@ textarea, label {
 }
 
 .nicescroll-cursors {
-  background: #FA6862 !important;
+  background: #fcadf1 !important;
 }
 
 .preloader {
@@ -210,7 +210,7 @@ textarea, label {
 }
 
 .loading-mask {
-  background-color: #FA6862;
+  background-color: #fcadf1;
   height: 100%;
   left: 0;
   position: absolute;
@@ -261,7 +261,7 @@ textarea, label {
 	Start Styling
 -------------------------------------------------*/
 .site-wrapper {
-  border-top: 4px solid #FA6862;
+  border-top: 4px solid #fcadf1;
 }
 
 .page-close {
@@ -328,7 +328,7 @@ textarea, label {
   bottom: 14px;
 }
 .section-title h3::after {
-  background-color: #FA6862;
+  background-color: #fcadf1;
   width: 73px;
 }
 .section-title.light h3 {
@@ -408,7 +408,7 @@ textarea, label {
 }
 .hexagon-item:hover .hex-item div::before,
 .hexagon-item:hover .hex-item div::after {
-  background-color: #FA6862;
+  background-color: #fcadf1;
 }
 .hexagon-item:hover .hex-content svg {
   -webkit-transform: scale(0.97);
@@ -642,7 +642,8 @@ textarea, label {
   flex-grow: 1;
 }
 .progress .bar {
-  background-color: #FA6862;
+  /* background-color: #FA6862; */
+  background-color: #fcadf1;
   border-radius: 10px;
   height: 8px;
   width: 0;
@@ -669,8 +670,8 @@ textarea, label {
   border-bottom: 2px solid transparent;
 }
 .filter .active {
-  color: #FA6862;
-  border-bottom-color: #FA6862;
+  color: #fcadf1;
+  border-bottom-color: #fcadf1;
 }
 
 .works-item {
@@ -724,7 +725,7 @@ textarea, label {
   transform: translate3d(0px, 0px, 0px) scale(0);
 }
 .works-item h4 {
-  color: #FA6862;
+  color: #fcadf1;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -910,7 +911,7 @@ textarea, label {
   transform: scale(1.5);
 }
 .service-hex:hover .st1 {
-  fill: #FA6862;
+  fill: #fcadf1;
 }
 .service-hex:hover .content {
   width: 135%;
@@ -975,7 +976,7 @@ textarea, label {
   transition: all 0.3s ease 0s;
 }
 .testimonials .owl-dot.active {
-  border-color: #FA6862;
+  border-color: #fcadf1;
 }
 
 .tm-hex {
@@ -1103,13 +1104,13 @@ textarea, label {
   transform: translate(-50%, -50%);
 }
 .contact-social li:hover span {
-  background-color: #FA6862;
+  background-color: #fcadf1;
 }
 .contact-social li:hover span::before {
-  border-bottom-color: #FA6862;
+  border-bottom-color: #fcadf1;
 }
 .contact-social li:hover span::after {
-  border-top-color: #FA6862;
+  border-top-color: #fcadf1;
 }
 
 .contact-social-hex {
@@ -1145,10 +1146,10 @@ textarea, label {
   border-top: 12.41px solid #1e2530;
 }
 .contact-social-hex:hover::after {
-  border-bottom-color: #FA6862;
+  border-bottom-color: #fcadf1;
 }
 .contact-social-hex:hover::before {
-  border-top-color: #FA6862;
+  border-top-color: #fcadf1;
 }
 
 .contact-form .input-field {
@@ -1161,7 +1162,7 @@ textarea, label {
   margin-left: 5px;
 }
 .contact-form .input-field label.error {
-  color: #ff0000;
+  color: #fcadf1;
   font-size: 13px;
   margin: 0;
 }
@@ -1210,7 +1211,7 @@ textarea, label {
 }
 
 .msg-success {
-  color: #FA6862;
+  color: #fcadf1;
 }
 
 .pt-table.desktop-768 .pt-tablecell {
@@ -1324,7 +1325,7 @@ textarea, label {
 }
 
 .color-options li.c0 {
-  background-color: #FA6862;
+  background-color: #fcadf1;
 }
 
 .color-options li.c1 {
